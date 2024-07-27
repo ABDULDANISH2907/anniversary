@@ -212,7 +212,7 @@ h4, .h4 {
 
 /*第一屏*/
 .d1 {
-  background: url(../img/background/background1.jpg) no-repeat;
+  background: url(background1.jpg) no-repeat;
   background-size:none;
 }
 /*文字*/
@@ -315,7 +315,7 @@ h4, .h4 {
   position: absolute;
   width: 36px;
   height: 36px;
-  background: url(../img/page1/star.png);
+  background: url(star.png);
   -webkit-animation: scale 1s linear infinite;
        -o-animation: scale 1s linear infinite;
           animation: scale 1s linear infinite;
@@ -373,7 +373,7 @@ h4, .h4 {
   width: 200%;
   height: 118px;
   margin-left: -60%;
-  background-image: url(../img/page1/balloon.png);
+  background-image: url(balloon.png);
   background-repeat: repeat-x;
   background-size: 320px 250px;
   -webkit-animation: balloon1 4s ease-in-out infinite alternate;
@@ -451,7 +451,7 @@ h4, .h4 {
 
 /* 第2屏 */
 .d2 {
-  background: url(../img/background/background2.jpg) no-repeat;
+  background: url(background2.jpg) no-repeat;
   background-size: cover;
 }
 
@@ -610,7 +610,7 @@ h4, .h4 {
 
 /* 第3屏 */
 .d3 {
-  background: url(../img/background/background3.jpg) no-repeat;
+  background: url(background3.jpg) no-repeat;
   background-size: cover;
 }
 .textd3{
@@ -751,7 +751,7 @@ h4, .h4 {
 }
 /* 第4屏 */
 .d4 {
-  background: url(../img/background/background4.jpg) no-repeat;
+  background: url(background4.jpg) no-repeat;
   background-size: cover;
 }
 
@@ -895,7 +895,7 @@ h4, .h4 {
 
 /* 第5屏 */
 .d5 {
-  background: url(../img/background/background5.jpg) no-repeat;
+  background: url(background5.jpg) no-repeat;
   background-size: cover;
 }
 .journey1 {
@@ -1004,7 +1004,7 @@ h4, .h4 {
   z-index: 9999;
   width: 159px;
   height: 99px;
-  background: url(../img/page5/abc.png) no-repeat;
+  background: url(abc.png) no-repeat;
   background-size: 50%;
   -webkit-animation: plane 8s ease-in-out infinite;
        -o-animation: plane 8s ease-in-out infinite;
@@ -1057,7 +1057,7 @@ h4, .h4 {
 
 /* 第6屏 */
 .d6 {
-  background: url(../img/background/background6.jpg) no-repeat;
+  background: url(background6.jpg) no-repeat;
   background-size: cover;
 }
 
@@ -1244,7 +1244,7 @@ h4, .h4 {
 
 /* 第7屏 */
 .d7 {
-  background: url(../img/background/background7.jpg) no-repeat;
+  background: url(background7.jpg) no-repeat;
   background-size:cover;
   width: 100%;
   /* bottom: 40%; */
